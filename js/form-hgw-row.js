@@ -6,8 +6,8 @@ form.innerHTML = `
 
     <div style="text-align:-webkit-center;">
         <div  style="border:1px solid #000;max-width:570px;padding:10px">
-          <span class="timer" style="font-weight:bold;font-size:20px;">
-              [ 신청 마감 | <span id="day1" style="font-weight:bold;"></span> ]<br>[ <span id="countdown1" style="font-weight:bold;"></span>]
+          <span class="timer" style="font-weight:bold;font-size:16px;">
+               신청 마감 | <span id="day1" style="font-weight:bold;"></span> ( <span id="countdown1" style="font-weight:bold;"></span> )
           </span><br><br>
          <b style="font-size:20px;">현재  [ <span class="counter blink" style="bottom:0px;font-weight:bold;color:blue;">7</span> / 150 명 ] 남았습니다.</b>
       </a></div></div><br><br><br>
